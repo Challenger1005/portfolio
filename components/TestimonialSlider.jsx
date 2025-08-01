@@ -20,7 +20,7 @@ const testimonialData = [
     name: "Jane Doe",
     position: "Customer",
     message:
-      "Juanse was very communicative and easy to work with. I look forward to working with him again in the future.",
+      "Carlos was very communicative and easy to work with. I look forward to working with him again in the future.",
   },
   {
     image: "/t-avt-3.png",
@@ -34,7 +34,7 @@ const testimonialData = [
     name: "Alex V",
     position: "Customer",
     message:
-      "Juan's technical skills were impressive. He quickly resolved complex issues and delivered high-quality code. I'm excited to see what he accomplishes in future projects.",
+      "Carlos's technical skills were impressive. He quickly resolved complex issues and delivered high-quality code. I'm excited to see what he accomplishes in future projects.",
   },
   {
     image: "/Asad Saleem.png",
@@ -48,21 +48,21 @@ const testimonialData = [
     name: "David F",
     position: "Customer",
     message:
-      "Sebastian consistently demonstrated a positive attitude throughout the project. His enthusiasm was contagious, making it a pleasure to collaborate with him. I hope to work with him again soon.",
+      "Carlos consistently demonstrated a positive attitude throughout the project. His enthusiasm was contagious, making it a pleasure to collaborate with him. I hope to work with him again soon.",
   },
   {
     image: "/Leigha M..png",
     name: "Leigha M.",
     position: "Customer",
     message:
-      "Juan has an incredible knack for problem-solving. He approached each challenge with a strategic mindset, leading the team toward effective solutions. I look forward to collaborating with him in future endeavors.",
+      "Carlos has an incredible knack for problem-solving. He approached each challenge with a strategic mindset, leading the team toward effective solutions. I look forward to collaborating with him in future endeavors.",
   },
   {
     image: "/Lucas Credie.png",
     name: "Lucas Credie",
     position: "Customer",
     message:
-      "Juan's attention to detail is commendable. He ensured that every aspect of the project was meticulously executed, leading to a polished final product. I genuinely enjoyed working with him and would welcome the opportunity to do so again.",
+      "Carlos's attention to detail is commendable. He ensured that every aspect of the project was meticulously executed, leading to a polished final product. I genuinely enjoyed working with him and would welcome the opportunity to do so again.",
   },
   {
     image: "/Talynn Harman.png",

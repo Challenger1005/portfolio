@@ -4,6 +4,8 @@ import {
   RxDesktop,
   RxReader,
   RxRocket,
+  RxCube,
+  RxMobile,
   RxArrowTopRight,
 } from "react-icons/rx";
 import { FreeMode, Pagination } from "swiper";
@@ -23,6 +25,21 @@ const serviceData = [
     Icon: RxPencil2,
     title: "Backend",
     description: "API Integration  Django  ROR  Python  Node.js ",
+  },
+  {
+    Icon: RxCube,
+    title: "No/Low Code work",
+    description: "Framer Webflow",
+  },
+  {
+    Icon: RxReader,
+    title: "Business Automation",
+    description: "Make.com n8n zapier clickup monday.com",
+  },
+  {
+    Icon: RxMobile,
+    title: "Mobile",
+    description: "React Native Flutter Flutterflow",
   },
   {
     Icon: RxDesktop,
