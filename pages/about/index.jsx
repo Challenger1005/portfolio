@@ -14,9 +14,15 @@ import {
   SiAdobexd,
   SiFramer,
   SiNextdotjs,
+  SiZapier,
+  SiClickup,
+  SiFlutter,
+  SiSwift,
+  SiWebflow,
+  SiVuedotjs
 } from "react-icons/si";
 import { FaPython, FaAws } from 'react-icons/fa';
-import { SiTensorflow, SiPytorch, SiScikitlearn, SiKeras, SiOpenai } from 'react-icons/si';
+import { SiTensorflow,SiPhp,SiSvelte,SiCanva,SiTypescript, SiPytorch, SiScikitlearn, SiKeras, SiOpenai,SiGithub,SiGithubactions, SiKubernetes, SiDocker, SiAsana,SiJira,SiMicrosoftazure, } from 'react-icons/si';
 
 import Avatar from "../../components/Avatar";
 import Circles from "../../components/Circles";
@@ -28,32 +34,56 @@ export const aboutData = [
     title: "skills",
     info: [
       {
-        title: "Web Development",
+        title: "Web",
         icons: [
           FaHtml5,
           FaCss3,
           FaJs,
+          SiPhp,
+          SiTypescript,
           FaReact,
           SiNextdotjs,
+          SiVuedotjs,
           SiFramer,
+          SiWebflow,
+          SiSvelte,
           FaWordpress,
         ],
       },
       {
-        title: "AI Development",
+        title: "Mobile",
+        icons: [
+          SiFlutter,      // Icon for Python
+          SiSwift,
+
+        ],
+      },
+      {
+        title: "AI",
         icons: [
           FaPython,      // Icon for Python
           SiTensorflow,  // Icon for TensorFlow
           SiPytorch,     // Icon for PyTorch
           SiScikitlearn, // Icon for Scikit-learn
           SiKeras,       // Icon for Keras
-          SiOpenai,      // Icon for DeepAI
-          FaAws,         // Icon for Amazon Web Services (often used in AI)
+          SiOpenai,      // Icon for DeepAI         
+          // Icon for Amazon Web Services (often used in AI)
         ],
       },
       {
-        title: "UI/UX Design",
-        icons: [FaFigma, SiAdobexd, SiAdobephotoshop],
+        title: "Automation",
+        icons: [
+          SiZapier,
+          SiClickup
+        ],
+      },
+      {
+        title: "UI/UX",
+        icons: [FaFigma,SiCanva,  SiAdobexd, SiAdobephotoshop],
+      },
+      {
+        title: "CI/CD, Devops",
+        icons: [SiGithub,SiGithubactions, SiKubernetes, SiDocker, SiAsana,SiJira,SiMicrosoftazure, FaAws,  ],
       },
     ],
   },
